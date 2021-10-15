@@ -8,7 +8,7 @@
   division (나누기)
   floor division (나머지)
   power (거듭제곱)  a^b
- */
+*/
  
 def calculator(x,y) :
   addition = x+y
